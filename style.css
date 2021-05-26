@@ -698,6 +698,8 @@ a {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    justify-content: space-around;
 }
 
 h2 {
@@ -767,7 +769,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #e18458;
+    background-color: #bd6c45;
 }
 
 .tc-white {
@@ -1035,8 +1037,4 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
-}
-
-.collapse {
-    display: none;
 }
