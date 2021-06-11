@@ -1041,7 +1041,9 @@ h4 {
     }
 }
 
-.row {
-    margin-right: 0;
-    margin-left: 0;
+@media screen and (max-width: 1024px) {
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
 }
