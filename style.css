@@ -1040,3 +1040,8 @@ h4 {
         text-align: center;
     }
 }
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
