@@ -1031,7 +1031,7 @@ h4 {
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 667px) {
     .row {
         margin-right: 0;
         margin-left: 0;
